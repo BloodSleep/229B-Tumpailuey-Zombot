@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: dd0b840ae52e3d04e8923a9e7cc0afd4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3609986445393471203
+    second: BU Logo_0
+  - first:
+      213: 5035777144330100308
+    second: BU Logo_1
+  - first:
+      213: -2589340372142354216
+    second: BU Logo_2
+  - first:
+      213: -8368381247290290248
+    second: BU Logo_3
+  - first:
+      213: 1448767795490497915
+    second: BU Logo_4
+  - first:
+      213: -4856261552665115875
+    second: BU Logo_5
+  - first:
+      213: -8467019675853131724
+    second: BU Logo_6
+  - first:
+      213: 5448605573686009955
+    second: BU Logo_7
+  - first:
+      213: -2055242235153705422
+    second: BU Logo_8
+  - first:
+      213: 3003244328613193684
+    second: BU Logo_9
+  - first:
+      213: 6044510721432746151
+    second: BU Logo_10
+  - first:
+      213: 6612055101594805109
+    second: BU Logo_11
+  - first:
+      213: -8686075068017768617
+    second: BU Logo_12
+  - first:
+      213: -2897508892136236975
+    second: BU Logo_13
+  - first:
+      213: -7299189601095756332
+    second: BU Logo_14
+  - first:
+      213: -1965120425395579212
+    second: BU Logo_15
+  - first:
+      213: -5273334245392916606
+    second: BU Logo_16
+  - first:
+      213: 4926340324073097814
+    second: BU Logo_17
+  - first:
+      213: -3638208759215788175
+    second: BU Logo_18
+  - first:
+      213: -3877658600355911732
+    second: BU Logo_19
+  - first:
+      213: -629389998295635002
+    second: BU Logo_20
+  - first:
+      213: 3986310228878360879
+    second: BU Logo_21
+  - first:
+      213: -295752291684548711
+    second: BU Logo_22
+  - first:
+      213: 3820293240761061260
+    second: BU Logo_23
+  - first:
+      213: 577735182218741350
+    second: BU Logo_24
+  - first:
+      213: 1074277865648972954
+    second: BU Logo_25
+  - first:
+      213: -5502203722184816280
+    second: BU Logo_26
+  - first:
+      213: 7937229397143538157
+    second: BU Logo_27
+  - first:
+      213: 2819914285342654668
+    second: BU Logo_28
+  - first:
+      213: 5388130277361346727
+    second: BU Logo_29
+  - first:
+      213: 1156008668538360191
+    second: BU Logo_30
+  - first:
+      213: 4752946775803302787
+    second: BU Logo_31
+  - first:
+      213: -1598597559250066274
+    second: BU Logo_32
+  - first:
+      213: 4231085844677759994
+    second: BU Logo_33
+  - first:
+      213: -3035710238378829758
+    second: BU Logo_34
+  - first:
+      213: -5403612977924681902
+    second: BU Logo_35
+  - first:
+      213: 4882671417179807477
+    second: BU Logo_36
+  - first:
+      213: 8564218834185930889
+    second: BU Logo_37
+  - first:
+      213: -1218962118252499307
+    second: BU Logo_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 12
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BU Logo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 855
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19d8565470c6edc0800000000000000
+      internalID: -3609986445393471203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU Logo_1
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 363
+        width: 144
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e93dfc1aca2e540800000000000000
+      internalID: 5035777144330100308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU Logo_2
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 363
+        width: 171
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d090e386a0d01cd0800000000000000
+      internalID: -2589340372142354216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU Logo_3
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 363
+        width: 153
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfc83ad7998ddb80800000000000000
+      internalID: -8368381247290290248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU Logo_4
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 358
+        width: 145
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75ac3452ae0b1410800000000000000
+      internalID: 1448767795490497915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU Logo_5
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 363
+        width: 158
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d134201f8d71b9cb0800000000000000
+      internalID: -4856261552665115875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU Logo_6
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 360
+        width: 148
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430f78a077a1f7a80800000000000000
+      internalID: -8467019675853131724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU Logo_7
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 363
+        width: 158
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360a4ccb6e55d9b40800000000000000
+      internalID: 5448605573686009955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU Logo_8
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 145
+        width: 122
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236984683105a73e0800000000000000
+      internalID: -2055242235153705422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU Logo_9
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 147
+        width: 121
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d722b41ecaada920800000000000000
+      internalID: 3003244328613193684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU Logo_10
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 147
+        width: 38
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8f908d97a62e350800000000000000
+      internalID: 6044510721432746151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU Logo_11
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 147
+        width: 135
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5732edd251db2cb50800000000000000
+      internalID: 6612055101594805109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU Logo_12
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 147
+        width: 101
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7578c661fbcd47780800000000000000
+      internalID: -8686075068017768617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU Logo_13
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 147
+        width: 121
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1581fa6a30bf9c7d0800000000000000
+      internalID: -2897508892136236975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU Logo_14
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 145
+        width: 120
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d556760bb114ba90800000000000000
+      internalID: -7299189601095756332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU Logo_15
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 147
+        width: 38
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b69e6f726d7ab4e0800000000000000
+      internalID: -1965120425395579212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU Logo_16
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 147
+        width: 119
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fd371717a51d6b0800000000000000
+      internalID: -5273334245392916606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU Logo_17
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 147
+        width: 136
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a4f038c60ed5440800000000000000
+      internalID: 4926340324073097814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU Logo_18
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 0
+        width: 53
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f6a38d86c728dc0800000000000000
+      internalID: -3638208759215788175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU Logo_19
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 0
+        width: 53
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc72c853c0acf2ac0800000000000000
+      internalID: -3877658600355911732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU Logo_20
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 0
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cba7669125f347f0800000000000000
+      internalID: -629389998295635002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU Logo_21
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 0
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f210dc46808325730800000000000000
+      internalID: 3986310228878360879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU Logo_22
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 0
+        width: 51
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f72a09bd645ebf0800000000000000
+      internalID: -295752291684548711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU Logo_23
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 0
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f83613678640530800000000000000
+      internalID: 3820293240761061260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU Logo_24
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 0
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666c4665617840800800000000000000
+      internalID: 577735182218741350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU Logo_25
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 0
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94621ce60a98ee00800000000000000
+      internalID: 1074277865648972954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU Logo_26
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 0
+        width: 11
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8698759ddde34a3b0800000000000000
+      internalID: -5502203722184816280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU Logo_27
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 0
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9478d5514b62e60800000000000000
+      internalID: 7937229397143538157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU Logo_28
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 0
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc006ea1a19522720800000000000000
+      internalID: 2819914285342654668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU Logo_29
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 0
+        width: 53
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a866a190fb76ca40800000000000000
+      internalID: 5388130277361346727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU Logo_30
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 0
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71508d52c7fa0010800000000000000
+      internalID: 1156008668538360191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU Logo_31
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 0
+        width: 11
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383181019ebd5f140800000000000000
+      internalID: 4752946775803302787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU Logo_32
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 0
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94e7165df3a0d9e0800000000000000
+      internalID: -1598597559250066274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU Logo_33
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 0
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af393329826d7ba30800000000000000
+      internalID: 4231085844677759994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU Logo_34
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 0
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248d9604f9dfed5d0800000000000000
+      internalID: -3035710238378829758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU Logo_35
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 0
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fcb1b40a28205b0800000000000000
+      internalID: -5403612977924681902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU Logo_36
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 0
+        width: 11
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe94ffc8cbb2c340800000000000000
+      internalID: 4882671417179807477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU Logo_37
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 0
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988cc5e87a73ad670800000000000000
+      internalID: 8564218834185930889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU Logo_38
+      rect:
+        serializedVersion: 2
+        x: 2178
+        y: 0
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ee6ea6960651fe0800000000000000
+      internalID: -1218962118252499307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
